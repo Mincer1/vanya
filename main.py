@@ -1,3 +1,4 @@
 print("hello world beat")
-kek = 5*85
+five = 5
+kek = five*85
 print(kek)
